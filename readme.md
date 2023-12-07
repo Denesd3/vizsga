@@ -18,10 +18,12 @@
 - GitHub repo létrehozása
 
 - összekapcsolási parancs:
-    > git remote add origin https://github.com/Denesd3/vizsga.git
+    > git remote add origin https://token@github.com/Denesd3/vizsga.git
 
 - meg kell mondani a legelső alkalommal, hogy melyi ágat használjuk és feltesszük a legújabb verziónkat:
     > git push -u origin master
 
 - további verziók esestén:
     > git push
+
+    - xdddman
